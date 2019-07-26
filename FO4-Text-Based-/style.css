@@ -1,0 +1,19 @@
+.game-button{
+  border-style: solid;
+  border-color: darkred;
+  color: darkred;
+  background-color: Black;
+  font-size: 40px;
+  margin: 0 auto;
+  display: block;
+  width: 300px;
+}
+body{
+  background-color: black;
+}
+#stage{
+}
+#end-text{
+  color: darkred;
+  text-align: center;
+}
